@@ -1,0 +1,12 @@
+:root {
+    --quoteColors: brown;
+}
+
+body, .card-link {
+    background-color: var(--quoteColors);
+    border: 0;
+}
+
+.card-title, .card-text {
+    color: var(--quoteColors);
+}
